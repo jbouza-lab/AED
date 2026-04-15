@@ -3,7 +3,7 @@
 - Número de equipo: Pendiente
 - Autor:
   - Usuario GitHub: jbouza-lab
-  - Legajo: 244.122
+  - Legajo: 244.122-6
   - Apellido: Bouza
   - Nombre: Juan Manuel
 
